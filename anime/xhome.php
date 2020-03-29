@@ -12,22 +12,15 @@ header('Content-Type: text/html; charset=utf-8');
    <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
    <link rel="stylesheet" href="http://demos.jquerymobile.com/1.4.5/listview-grid/listview-grid.css">
    <link href='img/zgtvlogo.png' rel='image_src'/>
-   <meta name="title" content="ZGTv. Full Animes Videos Peliculas Gratis">
+   <meta name="title" content="DAnime Full Animes">
 
-
-
-  <meta property="og:url"           content="http://zgrafic.com" />
-  <meta property="og:type"          content="ZGTv." />
-  <meta property="og:title"         content="ZGTv. Full Animes" />
-  <meta property="og:description"   content="ZGTv. es una web es la que podras disfrutar del contenido completamente Gratis" />
-  <meta property="og:image"         content="img/zgtvlogo.png" />
 
 
 
    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
    <script src="https://code.jquery.com/jquery-1.11.3.js"></script>
    <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
-   <script src="http://zgrafic.com/list/code/tawk.js"></script>
+
 
 <!--
 <script type="text/javascript" src="//goraps.com/mobile_redir.php?section=General&pub=516552&ga=g&desktop=1"></script>
@@ -51,7 +44,7 @@ html5Lightbox.showItem(href);
 
 <link href='../../img/zgtvlogo.png' rel='shortcut icon' type='image/png'/>
 
-<title>ZGTv</title></head>
+<title>DAnime</title></head>
 
   <style>
   .textbox
