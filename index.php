@@ -199,8 +199,10 @@ html5Lightbox.showItem(href);
     </td>-->
   </tr>
 </table>
-<script type="text/javascript" src="//uprimp.com/bnr.php?section=zgtv728x90&pub=516552&format=728x90&ga=g"></script>
-<noscript><a href="https://yllix.com/publishers/516552" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/728x90.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
+	
+<script type="text/javascript" src="//uprimp.com/bnr.php?section=dabanner728x90&pub=993114&format=728x90&ga=g"></script>
+<noscript><a href="https://yllix.com/publishers/993114" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/728x90.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
+	
 </div>
 </div>
 </div>
