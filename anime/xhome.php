@@ -131,11 +131,9 @@ html5Lightbox.showItem(href);
     <h4>Click para abrir o cerrar el Reproductor</h4>
     <iframe width="320px" height="247px" src="" frameborder="0" allowfullscreen name="contenedor" id="contenedor"></iframe><br>
 
-<a href="https://goraps.com/fullpage.php?section=zgDLink&pub=516552&ga=g" target="_blank">Descargar</a><br>
 	
-<script type="text/javascript" src="//uprimp.com/bnr.php?section=zgtv468x60&pub=516552&format=468x60&ga=g"></script>
-<noscript><a href="https://yllix.com/publishers/516552" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/468x60.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
-
+<script type="text/javascript" src="//uprimp.com/bnr.php?section=dabanner468x60&pub=993114&format=468x60&ga=g"></script>
+<noscript><a href="https://yllix.com/publishers/993114" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/468x60.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
 
 
 
@@ -183,9 +181,11 @@ html5Lightbox.showItem(href);
  </div>
 
 <div data-role="footer" data-position="fixed" data-theme="b" align="center" >
-<script type="text/javascript" src="//uprimp.com/bnr.php?section=zgtv728x90&pub=516552&format=728x90&ga=g"></script>
-<noscript><a href="https://yllix.com/publishers/516552" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/728x90.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
-</div>
+	
+<script type="text/javascript" src="//uprimp.com/bnr.php?section=dabanner728x90&pub=993114&format=728x90&ga=g"></script>
+<noscript><a href="https://yllix.com/publishers/993114" target="_blank"><img src="//ylx-aff.advertica-cdn.com/pub/728x90.png" style="border:none;margin:0;padding:0;vertical-align:baseline;" alt="ylliX - Online Advertising Network" /></a></noscript>
+	
+	</div>
 
 </div>
 
